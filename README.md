@@ -1,3 +1,3 @@
-# IDEA Plugin 开发手册 
+# CTF 从入门到精通
 
 
