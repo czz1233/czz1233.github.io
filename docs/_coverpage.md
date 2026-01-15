@@ -1,12 +1,12 @@
-![logo](_media/logo.png)
+![ctf-logo](./assets/img/ctf-logo.png)
 
-# 小傅哥
+# CTF 学习笔记
 
-## 教程序员快速搭建博客
+## 从入门到精通，玩转网络安全夺旗赛
 
-- 本仓库以基于 docsify 构建的所见即所得博客，程序员👨🏻‍💻伙伴可以通过克隆仓库，配置基础的信息就可以拥有一个这样的博客了！
+- 本仓库整理了CTF各方向的学习资料、解题思路和实战经验，帮助安全爱好者🚩快速掌握CTF核心技能，从新手成长为夺旗高手！
     
-[![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) 
+[![stars](https://badgen.net/github/stars/your-username/ctf-notes?icon=github&color=ff69b4)](https://github.com/czz1233/czz1233.github.io) [![forks](https://badgen.net/github/forks/your-username/ctf-notes?icon=github&color=ff69b4)](https://github.com/czz1233/czz1233.github.io) 
 
-[GitHub](<https://github.com/fuzhengwei/fuzhengwei.github.io>)
-[开始阅读](README.md)
+[GitHub](<https://github.com/czz1233/czz1233.github.io>)
+[开始学习](README.md)
